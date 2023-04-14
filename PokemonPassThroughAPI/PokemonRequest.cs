@@ -53,7 +53,7 @@ namespace PokemonPassThroughAPI
                 validJson = false;
             }
 
-            // The requests table can be created with the following MySQL code:
+            // The requests table can be created with the following SQL:
             /*
             CREATE TABLE `requests` (
             `id` int NOT NULL AUTO_INCREMENT,
