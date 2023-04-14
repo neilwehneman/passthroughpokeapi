@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Iov/qeDm4cKurdWiPykrsKEgyyIFRpIOUy92H0Cb5BU=",
+  "Source": "PokemonPassThroughAPI",
+  "BasePath": "_content/PokemonPassThroughAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
