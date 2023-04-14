@@ -5,6 +5,6 @@ This project makes GET or POST requests to pokeapi.co to retrieve basic informat
 
 The API is queried via web browser or Postman by running the project within Visual Studio (which will automatically stand up a Kestrel webserver) and connecting to localhost:[port]/myapi/[requestString].
 
-The requestString can either be the Pokemon's name (e.g. "pikachu") or the Pokemon's number (e.g. "25").
+The requestString can either be the Pokemon's name (e.g. "pikachu") or the Pokemon's number (e.g. "25"). Invalid requests will return a 404 response.
 
-This project requires a localhost MySQL database. The code to create the one table used in that database is contained within a multi-line comment in PokemonRequest.cs.
+This project requires a localhost MySQL database. The SQL to create the one table used in that database is contained within a multi-line comment in PokemonRequest.cs.
